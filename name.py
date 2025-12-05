@@ -1,0 +1,3 @@
+crysral = "crysral"
+
+print(crysral)
