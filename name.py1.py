@@ -1,0 +1,3 @@
+crystal = "Crystal"
+
+print(crystal)
