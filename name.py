@@ -1,3 +1,4 @@
-crysral = "crysral"
+crystal = "crystal jade \nChristal David \nJhamp \nGerald \nArdre"
 
-print(crysral)
+
+print(crystal)
